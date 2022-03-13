@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
             elif " open calculator" in query:
                 code="C:\\Users\\Shahnawaz\\AppData\\Local\\Programs\\latest calculator Installer\\smartcalculater.exe"
-                speak("Be ready sir we are going to smar calculator for you")
+                speak("Be ready sir we are going to open smart calculator for you")
                 os.startfile(code)
 
 
